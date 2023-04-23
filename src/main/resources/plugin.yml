@@ -1,0 +1,4 @@
+name: WelcomeRewards
+version: '${project.version}'
+main: com.autumnstudios.plugins.welcomerewards.WelcomeRewards
+api-version: 1.19
